@@ -1,2 +1,11 @@
 theme: jekyll-theme-minimal
-tittle: Welcome to Ivan Ramirez Zuniga homepage. 
+tittle: Welcome to my homepage. 
+
+# Site Author
+author:
+  name             : "Ivan Ramirez Zuniga"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "University of Pittsburgh"
+
+
