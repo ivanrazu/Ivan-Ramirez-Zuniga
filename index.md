@@ -1,5 +1,6 @@
 ## Welcome to my page
 
+I am a PhD student in the [Mathematics department](https://https://www.mathematics.pitt.edu/) at University of Pittsburgh. 
 You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
