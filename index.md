@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-I am a PhD student in the [Mathematics department](https://www.mathematics.pitt.edu/) at University of Pittsburgh. 
+I am a PhD student in the [Department of Mathematics](https://www.mathematics.pitt.edu/) at University of Pittsburgh. 
 My work focuses on developing mathematical models of inflammation and immune response that acount for the energy consumption required to fight an infection.  
 You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
