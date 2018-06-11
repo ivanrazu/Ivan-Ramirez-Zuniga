@@ -7,5 +7,11 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "University of Pittsburgh"
+  
+  
+  # Reading Files
+include:
+  - images
+  
 
 
