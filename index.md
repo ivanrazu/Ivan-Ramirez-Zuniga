@@ -3,7 +3,7 @@
 I am a PhD student in the [Department of Mathematics](https://www.mathematics.pitt.edu/) at University of Pittsburgh. 
 My work focuses on developing mathematical models of inflammation and immune response that acount for the energy consumption required to fight an infection.  
 
-My advirsors are Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
+I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
 
 You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
