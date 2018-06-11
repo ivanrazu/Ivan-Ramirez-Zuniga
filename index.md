@@ -5,7 +5,7 @@ My work focuses on developing mathematical models of inflammation and immune res
 
 I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
 
-![profile_pic.jpg](src)
+![profile_pic.jpg](https://github.com/ivanrazu/Ivan-Ramirez-Zuniga/blob/master/images/profile_pic.JPG)
 
 You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
