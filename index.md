@@ -5,6 +5,8 @@ My work focuses on developing mathematical models of inflammation and immune res
 
 I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
 
+![profile_pic.jpg](src)
+
 You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
