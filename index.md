@@ -7,9 +7,6 @@ I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We coll
 
 ![profile_pic.jpg](https://github.com/ivanrazu/Ivan-Ramirez-Zuniga/blob/master/images/profile_pic.JPG)
 
-You can use the [editor on GitHub](https://github.com/ivanrazu/ivanramirez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
