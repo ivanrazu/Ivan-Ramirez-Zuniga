@@ -1,41 +1,14 @@
 ### Welcome to my page
 
-I am a PhD student in the [Department of Mathematics](https://www.mathematics.pitt.edu/) at University of Pittsburgh. 
+I am a PhD student in the [Department of Mathematics](https://www.mathematics.pitt.edu/) at University of Pittsburgh.
 My work focuses on developing mathematical models of inflammation and immune response that acount for the energy consumption required to fight an infection.  
 
 I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
 
 ![profile_pic.jpg](https://github.com/ivanrazu/Ivan-Ramirez-Zuniga/blob/master/images/profile_pic.JPG)
 
+I am originally from Costa Rica where I did my undergratuate studies at Universidad de Costa Rica. 
+I completed my master at East Tennesse State University under the supervision of Dr. Ariel Cintron-Arias.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanrazu/ivanramirez/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
