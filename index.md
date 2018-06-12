@@ -5,19 +5,6 @@ My work focuses on developing mathematical models of inflammation and immune res
 
 I work under the supervision of Dr. Jonathan Rubin and Dr. David Swigon. We collaborate with Dr. Gilles Clermont. 
 
-RewriteRule ^(images)($|/) - [L]
-RewriteCond %{REQUEST_URI} !^action=logout [NC]
-RewriteCond %{REQUEST_URI} !^action=login [NC]
-Options +FollowSymLinks -MultiViews
-RewriteEngine on
-RewriteBase /dropplets/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^.]+)\.(jpg|jpeg|png|bmp|gif)$ posts/$1.$2 [NC,L]
-RewriteCond %{REQUEST_URI} !index\.php
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php?filename=$1 [NC,QSA,L]
-
-
 ![profile_pic.jpg](https://github.com/ivanrazu/Ivan-Ramirez-Zuniga/blob/master/images/profile_pic.JPG)
 
 I am originally from Costa Rica where I did my undergratuate studies at Universidad de Costa Rica. 
